@@ -18,7 +18,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 
 > Click on buttons to expand!
 <details>
-<summary><b>🔗 Requirements</b></summary>
+<summary><b>🔗 Requirement</b></summary>
 <br>
     
 - [Python3.9](https://www.python.org/downloads/release/python-390/)
